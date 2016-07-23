@@ -5,7 +5,7 @@
 // @description  Dark mode automatically on when opening twitch page.
 // @author       Tokenyet (or Dowen)
 // @supportURL   tokenyete@gmail.com
-// @homepage     https://github.com/EchoDev/TwitchHTML5
+// @homepage     https://github.com/Tokenyet/Twitch-Auto-Dark-Mode
 // @include      http*://www.twitch.tv*
 // @grant        none
 // @icon         https://www.twitch.tv/favicon.ico
